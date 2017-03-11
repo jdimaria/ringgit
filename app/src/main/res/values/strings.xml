@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ringgit</string>
+    <string name="submitted_by">submitted %s by&#160;</string>
+    <string name="submitted_to">&#160;&#160;to&#160;</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="desc_thumbnail">Thumbnail</string>
+</resources>
